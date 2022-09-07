@@ -1,5 +1,0 @@
-package demo.boot.dao;
-
-public class EmployeeRepository {
-
-}
